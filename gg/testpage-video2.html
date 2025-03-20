@@ -1,0 +1,615 @@
+<!DOCTYPE HTML>
+<!-- html5up.net | @ajlkn Free for personal and commercial use under the CCA 3.0 license -->
+
+<!--
+
+o
+ \_/\o
+( Oo)                    \|/
+(_=-)  .===O-  ~~Z~A~P~~ -O-
+/   \_/U'                /|\
+||  |_/
+\\  |
+{K ||
+ | PP
+ | ||
+ (__\\
+
+-->
+<html>
+	<head>
+		<title>GG TAS</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/gg-cookies.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+
+	<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+	<script type="text/javascript" src="../assets/js/quantcast2.js"></script>    
+	<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+
+    <!-- Video.js IMA SDK -->
+    <link rel="stylesheet" href="https://googleads.github.io/videojs-ima/node_modules/video.js/dist/video-js.min.css" />
+    <link rel="stylesheet" href="https://googleads.github.io/videojs-ima/node_modules/videojs-contrib-ads/dist/videojs.ads.css" />
+    <link rel="stylesheet" href="https://googleads.github.io/videojs-ima/dist/videojs.ima.css" />
+
+    <style>
+        .video-js {
+        margin: auto;
+        }
+    </style>
+    <!-- End video.js -->
+
+		<!-- Prebid Core wrapper head section 
+ 		<script async src="//www.googletagservices.com/tag/js/gpt.js"></script>
+        <script async src="../prebidjs/prebid8.42.0.js"></script>
+        <script>
+            var div_1_sizes = [
+              [1, 1]
+            ];
+            var div_2_sizes = [
+				[300, 250],
+                [600, 300],
+				[1, 1]
+            ];
+			var div_3_sizes = [
+                [1, 1],
+                [970, 250],
+                [300, 250],
+                [600, 300]
+            ];
+			var div_4_sizes = [
+              	[728, 90]
+            ];
+            var PREBID_TIMEOUT = 1000;
+            var FAILSAFE_TIMEOUT = 3000;
+
+            var adUnits = [
+                {
+                    code: '/21697839273/jpx_roadblock/medium_rectangle_1',
+                    mediaTypes: {
+                        banner: {
+                            sizes: div_1_sizes
+                        }
+                    },
+                    bids:   [{
+                    bidder: 'appnexus',
+                    params: {
+                        placementId: 13144370
+                    }
+                },
+				{
+    				bidder: 'gumgum',
+   				    params: {
+        			zone: 'vpbtfzzn', // provided by GumGum
+					product: 'skins'
+    			}
+				},
+                {
+                    bidder: 'justpremium',
+          			params: {
+              		zone: 118198,
+					allow: "['wp','wv','mt','sa','pa']"
+                    }
+                }]
+                },
+				{
+                    code: '/21697839273/jpx_roadblock/medium_rectangle_2',
+                    mediaTypes: {
+                        banner: {
+                            sizes: div_2_sizes
+                        }
+                    },
+                    bids:   [{
+                    bidder: 'appnexus',
+                    params: {
+                        placementId: 13144370
+                    }
+                },
+				{
+    				bidder: 'gumgum',
+   				    params: {
+        			zone: 'vpbtfzzn', // provided by GumGum
+					slot: 315125
+    			}
+				},
+                {
+                    bidder: 'justpremium',
+          			params: {
+              		zone: 118198,
+					allow: "['fi','hi','is','ci']"
+                    }
+                }]
+                },
+				{
+                    code: '/21697839273/jpx_roadblock/leaderboard_1',
+                    mediaTypes: {
+                        banner: {
+                            sizes: div_4_sizes
+                        }
+                    },
+                    bids:   [{
+                    bidder: 'appnexus',
+                    params: {
+                        placementId: 13144370
+                    }
+                },
+				{
+    				bidder: 'gumgum',
+   				    params: {
+        			zone: 'vpbtfzzn', // provided by GumGum
+					slot: 315703
+    				}
+				}]
+                },
+                {
+                    code: '/21697839273/medium_rectangle_3',
+                    mediaTypes: {
+                        banner: {
+                            sizes: div_3_sizes
+                        }
+                    },
+                    bids: [{
+                        bidder: 'appnexus',
+                    params: {
+                        placementId: 13144370
+                    }
+                },
+				{
+    				bidder: 'gumgum',
+   				    params: {
+        			zone: 'vpbtfzzn', // provided by GumGum
+					product: 'skin'
+					//slot: 315703 
+    			}
+				},
+                {
+                    bidder: 'justpremium',
+          			params: {
+              		zone: 118198,
+					allow: "['ms','cf','pu','fa','mv','as','fv']"
+                    }
+                }]
+                }
+            ];
+
+            // ======== DO NOT EDIT BELOW THIS LINE =========== //
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            googletag.cmd.push(function() {
+                googletag.pubads().disableInitialLoad();
+            });
+
+            var pbjs = pbjs || {};
+            pbjs.que = pbjs.que || [];
+
+            pbjs.que.push(function() {
+
+							pbjs.setConfig({
+
+							"schain": {
+                            "validation": "strict",
+                            "config": {
+                            "ver":"1.0",
+                            "complete": 1,
+                            "nodes": [
+                                {
+                                "asi":"adops.shop",
+                                "sid":"00001",
+                                "hp":1
+                                }
+
+                            ]
+                            }
+                        },
+							userSync: {
+									syncEnabled: true,
+									filterSettings: {
+										iframe: {
+											//bidders: ['justpremium'],
+											bidders: '*',
+											filter: 'include'
+										},
+										image: {
+											bidders: '*',   // '*' means all bidders can sync, also applies to iframe object
+											filter: 'include'
+			}
+								 }
+						 },
+							consentManagement: {
+								gdpr: {
+									cmpApi: 'iab',
+									timeout: 8000,
+									defaultGdprScope: true,
+									iframeEnabled: true
+								}
+							}
+
+          });
+
+
+                pbjs.addAdUnits(adUnits);
+                pbjs.requestBids({
+                    bidsBackHandler: initAdserver,
+                    timeout: PREBID_TIMEOUT
+                });
+
+            });
+
+            function initAdserver() {
+                if (pbjs.initAdserverSet) return;
+                pbjs.initAdserverSet = true;
+                googletag.cmd.push(function() {
+                    pbjs.que.push(function() {
+                        pbjs.setTargetingForGPTAsync();
+                        googletag.pubads().refresh();
+                    });
+                });
+            }
+            // in case PBJS doesn't load
+            setTimeout(function() {
+                initAdserver();
+            }, FAILSAFE_TIMEOUT);
+
+            googletag.cmd.push(function() {
+                                //googletag.defineSlot('/21697839273/jpx_roadblock/medium_rectangle_1', div_1_sizes, 'div-1').addService(googletag.pubads());
+                                googletag.defineSlot('/21697839273/medium_rectangle_3', div_3_sizes, 'div-2').addService(googletag.pubads());
+								googletag.defineSlot('/21697839273/jpx_roadblock/medium_rectangle_2', div_2_sizes, 'div-3').addService(googletag.pubads());
+                                googletag.defineSlot('/21697839273/jpx_roadblock/leaderboard_1', [728, 90],  'leaderboard').addService(googletag.pubads());
+                                //googletag.defineSlot('/21697839273/jpx_roadblock/large_leaderboard_1', [970, 90],  'largeleaderboard').addService(googletag.pubads());
+								//googletag.defineSlot('/21697839273/jpx_roadblock/billboard_1', [970, 250], 'billboard').addService(googletag.pubads());
+								//googletag.defineSlot('/21697839273/jpx_roadblock/wide_skyscraper_1', [160, 600],  'wideskyscraper').addService(googletag.pubads());
+								//googletag.defineSlot('/21697839273/jpx_roadblock/halfpage_1', [300, 600],  'halfpage').addService(googletag.pubads());
+								//googletag.defineSlot('/21697839273/jpx_roadblock/billboard_1', [970, 250], 'div-gpt-ad-1619784303163-0').addService(googletag.pubads());
+								//googletag.pubads().setTargeting('justpremium', [jpx_takeover.available]);
+								googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+
+            var slot1;
+            googletag.cmd.push(function() {
+                slot1 = googletag.defineSlot('/21697839273/jpx_roadblock/medium_rectangle_1', div_1_sizes, 'div-1')
+                	.addService(googletag.pubads());
+                googletag.pubads().disableInitialLoad();
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+
+            function refreshBid() {
+                pbjs.que.push(function() {
+                    pbjs.requestBids({
+                        timeout: PREBID_TIMEOUT,
+                        adUnitCodes: ['/21697839273/jpx_roadblock/medium_rectangle_1'],
+                        bidsBackHandler: function() {
+                            pbjs.setTargetingForGPTAsync(['/21697839273/jpx_roadblock/medium_rectangle_1']);
+                            googletag.pubads().refresh([slot1]);
+                        }
+                    });
+                });
+            }
+
+        
+
+
+        </script>
+
+		 End wrapper  -->
+
+	</head>
+
+	<body class="is-preload">
+
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro
+					<div id="intro">
+						<h1>This is<br />
+						A testpage</h1>
+						<p>./p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div> -->
+
+				<!-- Header -->
+				<header id="header" style="">
+						<!--	<div id='billboard'  style='margin-bottom: 2em;'>
+								<script type='text/javascript'>
+										googletag.cmd.push(function() {
+												googletag.display('billboard');
+										});
+
+								</script>
+						</div> -->
+
+						<div>
+						<a href="#" class="logo"><img src="../images/gumgum-3xl.png" style="width: 300px;"/></a>
+						</div>
+
+					</header>
+
+				<!-- 	<div id='wideskyscraper' style='float: right ;margin: 10px;'>
+							<script type='text/javascript'>
+									googletag.cmd.push(function() {
+											googletag.display('wideskyscraper');
+									});
+
+							</script>
+					</div>
+					<div id='halfpage' style='float: left ;margin: 10px;'>
+							<script type='text/javascript'>
+									googletag.cmd.push(function() {
+											googletag.display('halfpage');
+									});
+
+							</script>
+					</div> -->
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="#">VIDEO</a></li>
+							<li><a href="#">Generic Page</a></li>
+							<li><a href="#">Elements Reference</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+
+						<!-- Featured Post -->
+							<article class="post featured" style="padding-top: 2em;">
+							<!--	<div id='leaderboard'>
+										<script type='text/javascript'>
+												googletag.cmd.push(function() {
+														googletag.display('leaderboard');
+												});
+
+										</script>
+								</div> -->
+								<header class="major" style="padding-top: 3em;">
+									<span class="date">April 25, 2019</span>
+									<h2><a href="#">
+									Test page</a></h2>
+									<p>DFP VAST In-stream 1x1<br />
+								 Video (7), In-Stream / GG Zone ID 1bep4xho<br />
+									IMA SDK + Video.js Open Source Player</p>
+									</header>
+	<!-- Ad tag body section 
+        <p><button onclick="refreshBid()">Refresh Ad Unit</button></p>
+        <div id='div-1' style='float: left; margin: 6px;'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                    googletag.display('div-1');
+                });
+
+            </script>
+        </div>
+
+							<div id='div-3' style='float: left; margin: 6px;'>
+									<script type='text/javascript'>
+											googletag.cmd.push(function() {
+													googletag.display('div-3');
+											});
+
+									</script>
+							</div>
+
+        <div id='div-2' style='float: left; margin: 6px; margin-bottom:20px'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                    googletag.display('div-2');
+                });
+
+            </script>
+        </div>
+
+	 End ad Tag -->
+                <div id="vid-container" >   
+                <video id="content_video" class="video-js vjs-default-skin" controls preload="auto" width="640" height="360">
+                  <source src="../video/Phil Schraeder, CEO, GumGum.mp4" type="video/mp4" />
+                </video>
+                 <!-- Load dependent scripts -->
+           <script src="https://googleads.github.io/videojs-ima/node_modules/video.js/dist/video.min.js"></script>
+           <script src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+           <script src="https://googleads.github.io/videojs-ima/node_modules/videojs-contrib-ads/dist/videojs.ads.min.js"></script>
+           <script src="https://googleads.github.io/videojs-ima/dist/videojs.ima.js"></script>
+           <script type="text/javascript">
+
+                var player = videojs('content_video');
+
+                var options = {
+                id: 'content_video',
+                adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?iu=/21697839273/video/instream_1x1&description_url=https%3A%2F%2Fadops.shop%2Fgg%2Ftestpage-video2.html&tfcd=0&npa=0&sz=1x1&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vpos=preroll'
+                };
+
+                player.ima(options);
+                // On mobile devices, you must call initializeAdDisplayContainer as the result
+                // of a user action (e.g. button click). If you do not make this call, the SDK
+                // will make it for you, but not as the result of a user action. For more info
+                // see our examples, all of which are set up to work on mobile devices.
+                // player.ima.initializeAdDisplayContainer();
+                </script>
+		        </div> 
+							</article>
+
+						<!-- Posts -->
+						<section class="posts">
+							<article>
+								<header>
+									<span class="date">April 24, 2019</span>
+									<h2><a href="#">THIS PAGE IS USED FOR<br />
+										 TESTING AND DEMOING ADS.</a></h2>
+								</header>
+								<a href="#" class="image fit"><img src="../images/gg1.png" alt="" /></a>
+								<p>We are a contextual intelligence company. We teach machines to see and understand the world in order to solve hard problems across the media industry.</p>
+								<ul class="actions special">
+									<li><a href="#" class="button">Full Story</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<span class="date">April 22, 2019</span>
+									<h2><a href="#">CONTEXTUAL<br />
+										ADVERTISING 101</a></h2>
+								</header>
+								<a href="#" class="image fit"><img src="../images/gg2.png" alt="" /></a>
+								<p>Let’s face it, the reign of the cookie is over. Apple and Google are cracking down on all behavioral targeting tactics and consumers are demanding greater agency when it comes to...</p>
+								<ul class="actions special">
+									<li><a href="#" class="button">Full Story</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<span class="date">April 18, 2019</span>
+									<h2><a href="#">WHAT IS<br />
+									CONTEXTUAL ADVERTISING?</a></h2>
+								</header>
+								<a href="#" class="image fit"><img src="../images/gg3.png" alt="" /></a>
+								<p>In the simplest terms, contextual advertising is advertising on a web page based on the page’s content. For example, an ad for Sephora in an article about the best makeup...</p>
+								<ul class="actions special">
+									<li><a href="#" class="button">Full Story</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<span class="date">April 14, 2019</span>
+									<h2><a href="#">CONTEXTUAL ADVERTISING<br />
+										IN 3 SIMPLE STEPS</a></h2>
+								</header>
+								<a href="#" class="image fit"><img src="../images/gg1.png" alt="" /></a>
+								<p>.A contextual intelligence platform, backed by Artificial Intelligence technology, such as computer vision and natural language processing scans the information on a web page, for example...</p>
+								<ul class="actions special">
+									<li><a href="#" class="button">Full Story</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<span class="date">April 11, 2019</span>
+									<h2><a href="#">ARTIFICIAL<br />
+										INTELLIGENCE</a></h2>
+								</header>
+								<a href="#" class="image fit"><img src="../images/gg2.png" alt="" /></a>
+								<p>When humans teach machines to think and act like them, that is termed Artificial Intelligence (AI). An entity created by humans that is capable of making rational and humane decisions...</p>
+								<ul class="actions special">
+									<li><a href="#" class="button">Full Story</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<span class="date">April 7, 2019</span>
+									<h2><a href="#">MACHINE<br />
+									LEARNING</a></h2>
+								</header>
+								<a href="#" class="image fit"><img src="../images/gg3.png" alt="" /></a>
+								<p>Machine Learning algorithms look for patterns within massive amounts of data, including numbers, words, images, clicks etc. This data can either be digitally stored or can be passed into...</p>
+								<ul class="actions special">
+									<li><a href="#" class="button">Full Story</a></li>
+								</ul>
+							</article>
+						</section>
+						
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Nashville, TN 00000-0000</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(000) 000-0000</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">info@untitled.tld</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+
+						<!-- Quantcast Tag -->
+<script type="text/javascript">
+window._qevents = window._qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+window._qevents.push({
+qacct:"p-EAsuR2wLacZTj",
+uid:"__INSERT_EMAIL_HERE__"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-EAsuR2wLacZTj.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; JPX Adops Testing</li><li><a href="https://html5up.net"></a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.scrollex.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+        <!-- IMA SDK scripts -->
+          
+
+	</body>
+</html>

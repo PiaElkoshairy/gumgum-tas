@@ -1,0 +1,34 @@
+#JPX & GG
+
+openx.com, 539514865, RESELLER, 6a698e2ec38604c6
+openx.com, 543979852, RESELLER, 6a698e2ec38604c6
+appnexus.com, 7118, RESELLER
+spotx.tv, 108933, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 108933, RESELLER, 7842df1d2fe2db34
+improvedigital.com, 185, RESELLER
+adform.com, 183, RESELLER
+freewheel.tv, 33081, RESELLER
+freewheel.tv, 33601, RESELLER
+google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
+indexexchange.com, 189872, RESELLER
+rhythmone.com, 4116102010, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 4116102010, RESELLER
+justpremium.com, 4964, DIRECT
+bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
+33across.com, 0013300001r0t9mAAA, RESELLER, bbea06d9c4d2853c
+synacor.com, 82151, RESELLER, e108f11b2cdf7d5b
+rhythmone.com, 78519861, RESELLER, a670c89d4a324e47
+
+gumgum.com, 15529, DIRECT, ffdef49475d318a9
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807
+contextweb.com, 558355, RESELLER
+pubmatic.com, 157897, RESELLER, 5d62403b186f2ace
+EMXDGT.com, 1284, RESELLER, 1e1d41537f7cad7f
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+admanmedia.com, 799, RESELLER
+improvedigital.com, 1884, RESELLER
+smartadserver.com, 4005, RESELLER
+
+Nov 2023
+gumgum.com, 15530, DIRECT, ffdef49475d318a9

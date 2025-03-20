@@ -4614,6 +4614,16 @@ input, select, textarea {
 
 			}
 
+		
+		/* IMA SDK video ad container */ 
+
+		#ad-container {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			#navPanel {

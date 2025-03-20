@@ -1,0 +1,719 @@
+
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://staging.notion.online/xmlrpc.php">
+	<title>Gotta Be Honest: An Interview with Tyla Yaweh &#8211; Notion</title>
+<script type='text/javascript' src='https://servedbyadbutler.com/hb_app.js' async></script><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Notion &raquo; Feed" href="https://staging.notion.online/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Notion &raquo; Comments Feed" href="https://staging.notion.online/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Notion &raquo; Gotta Be Honest: An Interview with Tyla Yaweh Comments Feed" href="https://staging.notion.online/gotta-be-honest-an-interview-with-tyla-yaweh/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/staging.notion.online\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://staging.notion.online/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://staging.notion.online/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://staging.notion.online/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://staging.notion.online/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://staging.notion.online/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.5.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://staging.notion.online/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.5.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='notion-mag-style-css'  href='https://staging.notion.online/wp-content/themes/notion-magazine/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://staging.notion.online/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://staging.notion.online/wp-json/" /><link rel="alternate" type="application/json" href="https://staging.notion.online/wp-json/wp/v2/posts/25547" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://staging.notion.online/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://staging.notion.online/wp-includes/wlwmanifest.xml" />
+<link rel='prev' title='Notion Now: Aluna, London Grammar and NSG' href='https://staging.notion.online/notion-now-aluna-london-grammar-and-nsg/' />
+<link rel='next' title='Notion Highlight: Notting Hill Carnival Goes Digital' href='https://staging.notion.online/notion-highlight-notting-hill-carnival-goes-digital/' />
+<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WooCommerce 4.5.2" />
+<link rel="canonical" href="https://staging.notion.online/gotta-be-honest-an-interview-with-tyla-yaweh/" />
+<link rel='shortlink' href='https://staging.notion.online/?p=25547' />
+		<!-- Custom Logo: hide header text -->
+		<style id="custom-logo-css" type="text/css">
+			.site-title, .site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+		</style>
+		<link rel="alternate" type="application/json+oembed" href="https://staging.notion.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstaging.notion.online%2Fgotta-be-honest-an-interview-with-tyla-yaweh%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://staging.notion.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstaging.notion.online%2Fgotta-be-honest-an-interview-with-tyla-yaweh%2F&#038;format=xml" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-17566718-9 "></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-17566718-9 ');
+		</script>
+
+		<meta property="og:title" content="Gotta Be Honest: An Interview with Tyla Yaweh - Notion" />
+	<meta property="og:description" content="A space for pioneering talent" />
+	<meta property="og:url" content="https://staging.notion.online/gotta-be-honest-an-interview-with-tyla-yaweh/" />
+	<meta property="og:image" content="https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122637/ty3.jpg" />
+	<meta property="og:site_name" content="Notion" />
+	<meta property="og:type" content="article" />
+	<meta name="description" content="A space for pioneering talent" />
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<div id="fb-root"></div>
+	<script>
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+	<script type="text/javascript" src="https://nl.ads.justpremium.com/adserve/js.php?zone=33907"></script>
+
+</head>
+
+<body class="post-template-default single single-post postid-25547 single-format-standard wp-custom-logo theme-notion-magazine woocommerce-no-js group-blog no-js">
+	<div id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#main">
+			Skip to content</a>
+
+
+		<header id="site-header">
+			<div class="site-header">
+				<div class="site-branding">
+
+
+					<span class="search-icon show-hide--trigger-search">
+
+	<svg
+			class="icon icon-search"
+	 aria-labelledby="title-search-58570 desc-search-58570"		role="img">
+		<!-- <title id="title-search-58570">
+			Search		</title> -->
+
+					<desc id="desc-search-58570">
+				Search site			</desc>
+
+					<use xlink:href="#icon-search"></use>
+
+	</svg>
+
+							<span class="screen-reader-text">Search site</span>
+					</span>
+
+				<nav id="site-navigation" class="main-navigation"><ul id="primary-menu" class="menu dropdown"><li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="https://staging.notion.online/shop/">Shop</a></li>
+<li id="menu-item-557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-557"><a href="http://studionotion.com/">Studio</a></li>
+</ul></nav>
+					<div class="site-logo">
+						<a href="https://staging.notion.online/" class="custom-logo-link" rel="home"><img src="https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/10/17132130/notion_logo.svg" class="custom-logo" alt="Notion" height="30" width="124" /></a>					</div> <!-- .site-logo -->
+
+					<div class="site-social-search">
+							<ul class="social-icons">
+						<li class="social-icon facebook">
+					<a href="https://www.facebook.com/NotionMagazine">
+
+	<svg
+			class="icon icon-facebook"
+	 aria-hidden="true"		role="img">
+		<!-- <title id="title-facebook-89173">
+			facebook		</title> -->
+
+
+					<use xlink:href="#icon-facebook"></use>
+
+	</svg>
+
+							<span class="screen-reader-text">
+						Link to %s						</span>
+					</a>
+				</li><!-- .social-icon -->
+							<li class="social-icon instagram">
+					<a href="https://www.instagram.com/notion/">
+
+	<svg
+			class="icon icon-instagram"
+	 aria-hidden="true"		role="img">
+		<!-- <title id="title-instagram-20627">
+			instagram		</title> -->
+
+
+					<use xlink:href="#icon-instagram"></use>
+
+	</svg>
+
+							<span class="screen-reader-text">
+						Link to %s						</span>
+					</a>
+				</li><!-- .social-icon -->
+							<li class="social-icon twitter">
+					<a href="https://twitter.com/notionmagazine">
+
+	<svg
+			class="icon icon-twitter"
+	 aria-hidden="true"		role="img">
+		<!-- <title id="title-twitter-71226">
+			twitter		</title> -->
+
+
+					<use xlink:href="#icon-twitter"></use>
+
+	</svg>
+
+							<span class="screen-reader-text">
+						Link to %s						</span>
+					</a>
+				</li><!-- .social-icon -->
+
+	</ul><!-- .social-icons -->
+						</div> <!-- .site-social-search -->
+
+										<p class="site-description">
+						A space for pioneering talent					</p>
+									</div><!-- .site-branding -->
+
+
+
+								<button type="button" class="off-canvas-open" aria-expanded="false" aria-label="Open Menu">
+					<span class="hamburger"></span>
+				</button>
+
+			</div><!-- .site-header -->
+		</header><!-- #site-header-->
+
+		<div class="show-hide-search-wrapper">
+			<div class="show-hide-search animated">
+
+<form method="get" class="search-form" action="https://staging.notion.online/">
+	<label for="search-field"><span class="screen-reader-text">To search this site, enter a search term</span></label>
+	<input class="search-field" id="search-field" type="text" name="s" value="" aria-required="false" autocomplete="off" placeholder="Search" />
+	<input type="hidden" name="post_type" value="post">
+	<button id="search-submit" class="search-submit">
+
+	<svg
+			class="icon icon-search"
+	 aria-hidden="true"		role="img">
+		<!-- <title id="title-search-89896">
+			search		</title> -->
+
+
+					<use xlink:href="#icon-search"></use>
+
+	</svg>
+
+		</button>
+</form>
+			</div>
+		</div>
+
+
+		<div id="content" class="site-content">
+	<div class="primary content-area">
+		<main id="main" class="site-main">
+
+									<section class="banner-exclusive feature-music  content-block grid-container hero-banner--620" style="background-image: url('https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122637/ty3.jpg')">
+
+			<div class="hero-content">
+
+									<div class="cat-links">
+						<a href="https://staging.notion.online/category/exclusive/" rel="category tag">Exclusive</a>, <a href="https://staging.notion.online/category/music/feature-music/" rel="category tag">Feature</a>					</div><!-- .cat-links -->
+
+
+
+				<h1 class="hero-title">Gotta Be Honest: An Interview with Tyla Yaweh</h1>
+
+			</div><!-- .hero-content-->
+
+		</section><!-- /hero -->
+
+
+
+		<article class="post color-black has-background-color" style="background-color: #e4818b;">
+
+
+				<section class="content-block grid-container post-credits">
+					<div class="grid-x">
+
+
+
+						<!-- <div class="adbuter-advert--article-banner-header">
+													</div> -->
+
+						<!-- <script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/105544/tag"></script> -->
+
+
+
+
+
+							<ul class="credits--post">
+
+								<li>
+									<span class="credits__type">Words</span><!-- .credits__type -->
+									<span class="credits__name"><a href="https://staging.notion.online/author/aimeenotion-online/" title="Posts by aimee@notion.online" rel="author">aimee@notion.online</a></span><!-- .credits__name -->
+								</li>
+																									<li>
+
+      <span class="credits__type">
+      Photography    </span><!-- .credits__type -->
+
+      <span class="credits__name">
+
+              <a target="_blank" href="https://www.instagram.com/chrisvilla/?hl=en">
+
+      Chris Villa
+              </a>
+
+    </span><!-- .credits__name -->
+
+</li>
+							</ul><!-- .credits--post -->
+
+
+						<div class="entry-meta">
+							<span class="posted-on"><a href="https://staging.notion.online/gotta-be-honest-an-interview-with-tyla-yaweh/" rel="bookmark"><time class="entry-date published" datetime="2020-08-25T15:00:10+01:00">August 25, 2020</time><time class="updated" datetime="2020-09-07T14:13:14+01:00">September 7, 2020</time></a></span>						</div><!-- .entry-meta -->
+
+					</div><!-- .grid-x -->
+				</section><!-- .content-block -->
+
+									<section class="content-block grid-container post-introduction">
+						<div class="grid-x">
+							<p>"Tommy Lee" hitmaker Tyla Yahweh speaks candidly on his new collab with DaBaby, "Stuntin' On You", friendship with Post Malone, upcoming album, and his journey from homelessness to rap rockstar royalty.</p>
+						</div><!-- .grid-x -->
+					</section><!-- .content-block -->
+				<section id="text-block-1" class="content-block grid-container generic-content">	<div class="grid-x">
+
+		<p><span style="font-weight: 400;">If there’s one thing to be learned from Tyla Yahweh, it’s that his life is centred around honesty. He doesn’t know how to be anything else but himself. He constantly uses phrases like “honestly,” “gotta be honest,” and “if I’m being honest, bro.” Yahweh is as straightforward as they come about his beliefs, his life, and his interests. This is what cuts through in his music, which is not only made in the moment but rarely feels like it exists in a state of reflection. Yahweh’s forward-thinking and momentum has propelled him through multiple world tours opening up for Post Malone, a remix with Tommy Lee, and an upcoming album with all the guest features he wanted. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Manifestation is at the centre of his spirituality. Yahweh talks about speaking and thinking things into existence and is surely connected to the idea of fate. From the streets of Orlando to being homeless in LA to weekends with Drake, he has somehow stayed rooted in what he knows to bring him joy. Yet he manifested an outcome many people dream of &#8211; a rockstar lifestyle. Yahweh knows where he’s from and is proud of what it gave him, but at the same time, he’s on a never-ending journey to elevate. Though even when he reaches new heights, he doesn’t lose focus on what’s truly important. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We to Yahweh two days before his new single “Stuntin On You” featuring Da Baby dropped, and he was as excited and positive as ever, even though he had just woken up. We spoke on everything from shooting craps in a bowling alley, to weed arrests and annoying middle school choir teachers. Jump in!</span></p>
+
+	</div><!-- .grid-x -->
+</section><!-- .generic-content -->
+<section id="q-and-a-2" class="content-block grid-container generic-content q-and-a">	<div class="grid-x">
+
+                  <div class="question"><p><span style="font-weight: 400;">How did the new single with Da Baby come about?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Hard work and dedication. It was some sent back and forth shit. He sent it back like right away, him and his team they were fuckin wit it. It was dope to actually have him send it back so quick and be a part of the whole record. Come to the video shoot. Everything was just perfect.</span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">What&#8217;s that ad-lib breath in the background of the hook? </span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Something in the beat that you’re hearing where’s it’s givin&#8217; you that lil&#8217; vibe. I gotta really listen to that&#8230; and figure out what the hell I put in the song, I don’t even know. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">(Both laugh)</span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">How did “Tommy Lee” come together with Post Malone? What made this the right song to collaborate on?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">That’s our first song together man, to be honest. We’re just friends man. This music stuff, it’s just our job, and it’s fun and how we connected to each other, but it’s about our friendship more than the music you know. We finally came across and did a song, and I named it Tommy Lee. And when he hopped on it, we were like, “yo, this is crazy!” We were in Washington, DC, and I pulled up to his hotel room studio. And he picked that song and came up with the <em>“I pull up with the drum like I’m Tommy Lee.” </em></span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">Have you and Post Malone ever thought of starting a rock band?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Definitely! Hover Boys coming soon! He’s Chad, and I’m Chandler. He’s the sensitive one, and I’m the dancer. Wait, SKYLER and Chandler, that’s what it is! Man, we got something in the works. Coming in the near future.</span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">How did you become close friends in between opening for him in Florida and touring the world together?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Florida was the matchmaker. Then I moved to LA a year after that. Then two years later ran into Dre London again, and he was a matchmaker to this whole life. They were bringing me around all the time; I was goin&#8217; to the studio sessions, they were bringin&#8217; me to little small after parties and shows. Went to Coachella and they introduced me everywhere. And that was the time that Post was like, “yo, we’re both genuine souls, we’re both connected.” And he just wanted me to come on tour with him. It was just all organic, and being friends, and everything happened for a reason. </span></p>
+</div>
+
+	</div><!-- .grid-x -->
+</section><!-- .generic-content -->
+<section id="images-3" class="content-block grid-container image-content">	<div class="grid-x">
+
+
+        <div class="image-content__landscape-wide">
+
+
+                                      <img width="1271" height="951" src="https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2.jpg" class="attachment-w2260h1600 size-w2260h1600" alt="tyla yaweh" loading="lazy" srcset="https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2.jpg 1271w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-300x224.jpg 300w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-1024x766.jpg 1024w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-768x575.jpg 768w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-80x60.jpg 80w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-160x120.jpg 160w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-200x150.jpg 200w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-401x300.jpg 401w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-802x600.jpg 802w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-635x475.jpg 635w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-170x127.jpg 170w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-600x449.jpg 600w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122629/ty2-708x530.jpg 708w" sizes="(max-width: 1271px) 100vw, 1271px" />
+
+
+        </div><!-- .image-content__landscape-single-->
+
+
+	</div><!-- .grid-x -->
+</section><!-- .generic-content -->
+<section id="q-and-a-4" class="content-block grid-container generic-content q-and-a">	<div class="grid-x">
+
+                  <div class="question"><p><span style="font-weight: 400;">Do you have a favourite memory of touring together?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Yeah, I do! We were in&#8230;Sacramento actually, and it was just so fun. We were all on scooters. We went to the bowling alley one day and ended up playin&#8217; craps. We got really drunk off Fish Bowls. We had a lot of moments man. Like getting invited to Drake’s house and partying with Drake for a whole weekend straight. Bein in London for his album release party, then right after having an after-party he came to for me. From New Years to South Africa&#8230;we have so many memories I could just sit and tell you. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">Where were your three favourite tour stops?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">It’s hard to pick. But I love it when I’m in Sweden or when I’m in Australia. And I like it when I’m in Budapest. We get shown love everywhere, but Europe love is crazy. You get it from all angles. It makes you realize that you&#8217;re an actual artist.</span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">What is it about the European fandom that you love so much?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">It’s the support, to be honest. Like for example, I did Reading and Leeds festival in the UK. Right when we got out there, everybody knew every single song, word for word. At first, we went to the tent we thought no one was gonna pull up. We go out to the stage, and the tent is like filled with people that were waiting for me. That right there shows you a lot.</span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">What music was playing in your house growing up?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">They [his parents] wanted me to stay open to music, so they bought me all the albums I wanted. Like Green Day, My Chemical Romance&#8230;all the random rock albums. They were always just open-minded with music. My parents are a little older, so you know The Isley Brothers, Earth Wind &amp; Fire, Gospel Music, Stevie Wonder, Ray Charles all of that music they put that on and I had to listen to it. And I just started exploring more music. I didn’t get into rap until like later on. My sister was into all types of music. She was in a girl band. Orlando is filled with all types of music. It’s so easy to get into different music out there. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">Do you think maybe she saw potential in you?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Yeah, of course. Or she was just an evil lady and was like, (in demon voice) “YOU GOTTA DO IT!”</span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">When you left school at 15, did you have a gameplan?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">I was manifesting my life to where it is now. I didn’t know I was gonna get kicked out though. That wasn’t the plan. But it just happened, and I had to go to the streets. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">When you started doing music consistently, did you ever get pulled back into the streets?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Yeah, of course. I had to make money during the day and go to the studio at night. Then sometimes leave the studio in the morning and go straight back to the streets. But it was a fuckin&#8217; beautiful life man. It taught me how to survive. It taught me to work harder. It taught me not to give up. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">What sets your generation of Florida artists apart?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Us being authentic and raw, and uncut. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">How did you first connect with XXXtentacion? What made him special to you?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">It was in Orlando. Everybody linked up in Orlando. Shoutout to Tariq and Matt, they started the road for all of us, the starters of Rolling Loud. And X, you know he was a GOAT. He was like our Tupac. Gone way too soon.</span></p>
+</div>
+
+	</div><!-- .grid-x -->
+</section><!-- .generic-content -->
+<section id="images-5" class="content-block grid-container image-content">	<div class="grid-x">
+
+
+        <div class="image-content__double">
+
+
+            <div class="image-content__double__items">
+
+                                            <img width="545" height="750" src="https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122653/ty4-545x750.jpg" class="attachment-w545h750 size-w545h750" alt="tyla yaweh" loading="lazy" srcset="https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122653/ty4-545x750.jpg 545w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122653/ty4-1090x1500.jpg 1090w" sizes="(max-width: 545px) 100vw, 545px" />
+            </div><!-- .image-content__double__items-->
+
+
+            <div class="image-content__double__items">
+
+                                            <img width="545" height="750" src="https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122613/ty1-545x750.jpg" class="attachment-w545h750 size-w545h750" alt="tyla yaweh" loading="lazy" srcset="https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122613/ty1-545x750.jpg 545w, https://notionmedia.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/24122613/ty1-1090x1500.jpg 1090w" sizes="(max-width: 545px) 100vw, 545px" />
+            </div><!-- .image-content__double__items-->
+
+
+        </div><!-- .image-content__double -->
+
+
+	</div><!-- .grid-x -->
+</section><!-- .generic-content -->
+<section id="q-and-a-6" class="content-block grid-container generic-content q-and-a">	<div class="grid-x">
+
+                  <div class="question"><p><span style="font-weight: 400;">Growing up, did you have any rough encounters with police or “citizens on patrol.” </span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Oh yeah, I went to jail a few times. I had some racist cops come at me. But ya know, it’s Florida. It’s like what do you expect from it? It’s a wild state. But I love it, man. But yeah I went to jail I got caught with a lot of weed. Situations happen man. Actually, I went to jail, and the other homie had the same amount of weed on him and didn’t go to jail, and I was like, “what the hell? Why did I go to jail out of everybody?” It was a fucked up situation. We were with some white girls. I remember that. Some high school shit. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">How is it to see the whole country becoming more aware of the problems with the police?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Honestly, it’s amazing. People are finally not being sheep and waking up. Seeing what’s really going on. It’s a beautiful moment. And it’s a time in history for all of us in this generation to see. It’s a blessing because it’s instilling in our kids to see what’s going on. They are watching all of us and our mistakes, and it’s planting seeds in them. We want better for them. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">How do you avoid the LA pitfalls?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Oh, I just stay in my own world bro. I love LA. I love the way it looks. There’s a mountain in front of me right now. Like there are mountains that grow from the floor. That’s crazy. I’m from Florida, where everything is flat. I enjoy the vibes. You know who to stay away from. You stay in your own energy, you create your own energy, and you’ll always live a good life out here. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">Do you freestyle everything when you go into the studio to make music?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">I freestyle most of my music. Sometimes we have dope songwriters that come around. They don’t even have to write, but they hear me freestyle, and they’ll just start throwing out certain bars. But I just freestyle everything&#8230;melodies, it’s all off the rip. Sometimes I’ll sit down and write something, but it’s light. I go bar to bar for everything. It’s hard to write cuz it’s hard to just sit. I got ADD. I gotta get it out right away even if it’s a heartfelt song. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">How do you actually record?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">I’m one of those people who bring the mic out wit&#8217; &#8217;em. I just be smokin&#8217;, swinging in the chair. I hear a beat, I hear the first 5 seconds, and I’m like, “pull it up!” That’s how I work. Come up with an idea. 15 minutes we have a song. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">If you could describe your style combining one rock artist, one rapper, and one R&amp;B/ soul artist, who would they be?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Jim Morrison, mixed wit a little bit of Lil&#8217; Wayne, mixed wit some Michael Jackson. There ya go. That’s a vibe.</span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">What&#8217;s so dope about Jim Morrison to you?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">His poetry is everything! The way the man would write, his creative direction, everything was fire. He was open. He let his psychedelics speak for him. </span></p>
+<p>&nbsp;</p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">Did anything get put on hold for you because of COVID?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">A few shows. We were supposed to be in Europe, and I was supposed to do my own tour but&#8230;you know everything’s cool. We got my album almost done. And we got all the features on this album that I asked for. That I manifested, they happened. We’re growing my records; we’re growing my base, we’re connecting with my fans more. It’s been dope to sit down and like go back into your mind and see what you accomplished. That’s been amazing besides all the COVID-19 shit that’s happened. It’s amazing to sit down and see that we’ve got a world that we take advantage of. We don’t appreciate what we livin&#8217; on. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">What can you tell me about the new album?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">It’s gonna have a unique balance of life things that you can relate to. You’re gonna love the music bro. New vibes. It’s Yahweh; it’s a fresh breath of air. Things that you never heard yet. New stories that you never knew. I’m very experimental. I put life into it. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">You watch a lot of documentaries. Got any recommendations?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">I watch a lot of documentaries bro. I watch a lot of conspiracy stuff&#8230;in my private documentary watching. I like the Z Boys documentary. It’s about lords of the Dogtown, Tony Alva, Stacey Peralta, and the pro skaters from back in the day. And I watched this one documentary about the punk scene in LA. Backyard concerts and stuff that’s pretty fire. </span></p>
+</div>
+              <div class="question"><p><span style="font-weight: 400;">I’ve heard you say before you wanted to bring that punk scene back. What got you into it?</span></p>
+</div>
+        <div class="answer"><p><span style="font-weight: 400;">Just skateboarding with a lot of metalheads. Big punk scene out there in Florida. I just love The Sex Pistols, the old Vivian Westwood era. CBGB era. That whole era is just dope. Seeing that made me wanna make it come alive again. And I think it’s already there, to be honest.</span></p>
+</div>
+
+	</div><!-- .grid-x -->
+</section><!-- .generic-content -->
+<section id="video-7" class="content-block grid-container video-content">
+
+		<div class="grid-x">
+
+					<h2>Listen to Tyla Yaweh's new single, "Stuntin' On You" with DaBaby below:</h2>
+
+			<iframe src="https://open.spotify.com/embed/track/341lTIxmhybbQsgydwJiFx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+	</div><!-- .grid-x -->
+
+
+</section><!-- .generic-content -->
+
+			</article>
+
+					<section class="content-block grid-container">
+			<div class="grid-x">
+				<h3 class="title-small">Tags</h3>
+				<ul class="tags-links-wrapper">
+					<span class="tags-links"><a href="https://staging.notion.online/tag/tyla-yaweh/" rel="tag">Tyla Yaweh</a></span>				</ul>
+			</div><!-- .grid-x -->
+		</section><!-- /content-block -->
+
+			<section class="content-block grid-container">
+				<div class="grid-x">
+
+<div class="social-share">
+	<h3 class="title-small">Share this</h3>
+	<ul class="social-icons menu menu-horizontal">
+		<li class="social-icon">
+			<a href="https://twitter.com/share?text=Gotta%20Be%20Honest%3A%20An%20Interview%20with%20Tyla%20Yaweh&#038;url=https%3A%2F%2Fstaging.notion.online%2Fgotta-be-honest-an-interview-with-tyla-yaweh%2F" onclick="window.open(this.href, 'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, top=150, left=0, width=600, height=300' ); return false;">
+
+	<svg
+			class="icon icon-twitter"
+	 aria-labelledby="title-twitter-4199 desc-twitter-4199"		role="img">
+		<!-- <title id="title-twitter-4199">
+			Twitter		</title> -->
+
+					<desc id="desc-twitter-4199">
+				Share on Twitter			</desc>
+
+					<use xlink:href="#icon-twitter"></use>
+
+	</svg>
+
+					<span class="screen-reader-text">Share on Twitter</span>
+			</a>
+		</li>
+		<li class="social-icon">
+			<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstaging.notion.online%2Fgotta-be-honest-an-interview-with-tyla-yaweh%2F" onclick="window.open(this.href, 'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, top=150, left=0, width=600, height=300' ); return false;">
+
+	<svg
+			class="icon icon-facebook"
+	 aria-labelledby="title-facebook-29556 desc-facebook-29556"		role="img">
+		<!-- <title id="title-facebook-29556">
+			Facebook		</title> -->
+
+					<desc id="desc-facebook-29556">
+				Share on Facebook			</desc>
+
+					<use xlink:href="#icon-facebook"></use>
+
+	</svg>
+
+					<span class="screen-reader-text">Share on Facebook</span>
+			</a>
+		</li>
+	</ul>
+</div><!-- .social-share -->
+				</div><!-- .grid-x -->
+			</section><!-- /content-block -->
+
+
+
+		<!-- <script type="text/javascript" src="https://nl.ads.justpremium.com/adserve/js.php?zone=36690"></script>		 -->
+
+
+		</main><!-- #main -->
+	</div><!-- .primary -->
+
+
+	</div><!-- #content -->
+
+	<footer class="site-footer background-gray-alt">
+
+		<section class="grid-container">
+  		<div class="grid-x">
+
+				<div class="site-footer__menu-copyright">
+
+					<nav id="secondary-navigation" class="secondary-navigation"><ul id="secondary-menu" class="menu"><li id="menu-item-2533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2533"><a href="https://staging.notion.online/about/">About</a></li>
+<li id="menu-item-2532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2532"><a href="https://staging.notion.online/contact/">Contact</a></li>
+<li id="menu-item-2531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2531"><a href="https://staging.notion.online/terms-conditions/">Terms &amp; Conditions</a></li>
+<li id="menu-item-2539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-2539"><a href="https://staging.notion.online/privacy-policy/">Privacy Policy</a></li>
+</ul></nav>
+					<span class="copyright">&copy; Notion 2020. All rights reserved.</span>
+
+				</div><!-- .site-footer__menu -->
+
+				<div class="site-footer__newsletter">
+
+					<p>Get all of Notion’s content delivered straight to your inbox every Friday. Sign up for our newsletter below.</p>
+					<a href="/newsletter/" class="button button-mailchimp">Email me</a>
+
+				</div><!-- .site-footer__newsletter -->
+
+				<div class="site-footer__credits">
+
+					<a href="http://backtofront.london">Designed and built by Back to Front</a>
+
+				</div><!-- .site-footer__newsletter -->
+
+			</div><!-- grid-x -->
+		</section><!-- .content-block -->
+
+	</footer><!-- .site-footer container-->
+</div><!-- #page -->
+
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript' src='https://staging.notion.online/wp-content/plugins/adbutler/includes/../js/adbutler_hb_init.js?ver=1.27' id='adbutler_hb_init-js'></script>
+<script type='text/javascript' id='adbutler_hb_init-js-after'>
+AdButlerHB.timeout = 700;
+</script>
+<script type='text/javascript' src='https://staging.notion.online/wp-content/plugins/adbutler/includes/../js/adbutler_hb_final.js?ver=1.27' id='adbutler_hb_final-js'></script>
+<script type='text/javascript' src='https://staging.notion.online/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/staging.notion.online\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://staging.notion.online/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.5.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://staging.notion.online/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://staging.notion.online/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.5.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_4ced0aa362881c5e913d2876d094e24e","fragment_name":"wc_fragments_4ced0aa362881c5e913d2876d094e24e","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://staging.notion.online/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.5.2' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://staging.notion.online/wp-content/themes/notion-magazine/assets/scripts/project.min.js?ver=1.0.0' id='notion-mag-scripts-js'></script>
+<script type='text/javascript' src='https://staging.notion.online/wp-includes/js/comment-reply.min.js?ver=5.5.1' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://staging.notion.online/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none"><symbol id="icon-arrow-down" viewBox="0 0 32 32"><path d="M27.414 19.414l-10 10a2 2 0 0 1-2.828 0l-10-10a2 2 0 1 1 2.828-2.828L14 23.172V4a2 2 0 1 1 4 0v19.172l6.586-6.586c.39-.39.902-.586 1.414-.586s1.024.195 1.414.586a2 2 0 0 1 0 2.828z"/></symbol><symbol id="icon-arrow-left-white" viewBox="0 0 32 32"><path d="M12.586 27.414l-10-10a2 2 0 0 1 0-2.828l10-10a2 2 0 1 1 2.828 2.828L8.828 14H28a2 2 0 1 1 0 4H8.828l6.586 6.586c.39.39.586.902.586 1.414s-.195 1.024-.586 1.414a2 2 0 0 1-2.828 0z"/></symbol><symbol id="icon-arrow-left2" viewBox="0 0 32 32"><path d="M12.586 27.414l-10-10a2 2 0 0 1 0-2.828l10-10a2 2 0 1 1 2.828 2.828L8.828 14H28a2 2 0 1 1 0 4H8.828l6.586 6.586c.39.39.586.902.586 1.414s-.195 1.024-.586 1.414a2 2 0 0 1-2.828 0z"/></symbol><symbol id="icon-arrow-right-white" viewBox="0 0 32 32"><path d="M19.414 27.414l10-10a2 2 0 0 0 0-2.828l-10-10a2 2 0 1 0-2.828 2.828L23.172 14H4a2 2 0 1 0 0 4h19.172l-6.586 6.586c-.39.39-.586.902-.586 1.414s.195 1.024.586 1.414a2 2 0 0 0 2.828 0z"/></symbol><symbol id="icon-arrow-right2" viewBox="0 0 32 32"><path d="M19.414 27.414l10-10a2 2 0 0 0 0-2.828l-10-10a2 2 0 1 0-2.828 2.828L23.172 14H4a2 2 0 1 0 0 4h19.172l-6.586 6.586c-.39.39-.586.902-.586 1.414s.195 1.024.586 1.414a2 2 0 0 0 2.828 0z"/></symbol><symbol id="icon-bars" viewBox="0 0 27 32"><path d="M27.429 24v2.286q0 .464-.339.804t-.804.339H1.143q-.464 0-.804-.339T0 26.286V24q0-.464.339-.804t.804-.339h25.143q.464 0 .804.339t.339.804zm0-9.143v2.286q0 .464-.339.804t-.804.339H1.143q-.464 0-.804-.339T0 17.143v-2.286q0-.464.339-.804t.804-.339h25.143q.464 0 .804.339t.339.804zm0-9.143V8q0 .464-.339.804t-.804.339H1.143q-.464 0-.804-.339T0 8V5.714q0-.464.339-.804t.804-.339h25.143q.464 0 .804.339t.339.804z"/></symbol><symbol id="icon-caret-down" viewBox="0 0 16 28"><path d="M16 11a.99.99 0 0 1-.297.703l-7 7C8.516 18.89 8.265 19 8 19s-.516-.109-.703-.297l-7-7A.996.996 0 0 1 0 11c0-.547.453-1 1-1h14c.547 0 1 .453 1 1z"/></symbol><symbol id="icon-facebook-square" viewBox="0 0 27 32"><path d="M22.286 2.286q2.125 0 3.634 1.509t1.509 3.634v17.143q0 2.125-1.509 3.634t-3.634 1.509h-3.357V19.09h3.554l.536-4.143H18.93v-2.643q0-1 .42-1.5t1.634-.5l2.179-.018V6.59q-1.125-.161-3.179-.161-2.429 0-3.884 1.429t-1.455 4.036v3.054h-3.571v4.143h3.571v10.625h-9.5q-2.125 0-3.634-1.509T.002 24.573V7.43q0-2.125 1.509-3.634t3.634-1.509h17.143z"/></symbol><symbol id="icon-facebook" viewBox="0 0 32 32"><path d="M29 0H3C1.35 0 0 1.35 0 3v26c0 1.65 1.35 3 3 3h13V18h-4v-4h4v-2c0-3.306 2.694-6 6-6h4v4h-4c-1.1 0-2 .9-2 2v2h6l-1 4h-5v14h9c1.65 0 3-1.35 3-3V3c0-1.65-1.35-3-3-3z"/></symbol><symbol id="icon-google-plus-square" viewBox="0 0 27 32"><path d="M16.375 16.161q0-.464-.107-1.143H9.804v2.357h3.875q-.054.429-.295.893t-.67.946-1.188.795-1.723.313q-1.768 0-3.018-1.268T5.535 16t1.25-3.054 3.018-1.268q1.643 0 2.732 1.054l1.857-1.804q-1.929-1.786-4.589-1.786-2.857 0-4.857 2.009t-2 4.848 2 4.848 4.857 2.009q2.946 0 4.759-1.875t1.812-4.821zm6.161.821h1.946v-1.964h-1.946v-1.964h-1.964v1.964h-1.964v1.964h1.964v1.964h1.964v-1.964zm4.893-9.553v17.143q0 2.125-1.509 3.634t-3.634 1.509H5.143q-2.125 0-3.634-1.509T0 24.572V7.429q0-2.125 1.509-3.634t3.634-1.509h17.143q2.125 0 3.634 1.509t1.509 3.634z"/></symbol><symbol id="icon-googleplus-square" viewBox="0 0 27 32"><path d="M16.375 16.161q0-.464-.107-1.143H9.804v2.357h3.875q-.054.429-.295.893t-.67.946-1.188.795-1.723.313q-1.768 0-3.018-1.268T5.535 16t1.25-3.054 3.018-1.268q1.643 0 2.732 1.054l1.857-1.804q-1.929-1.786-4.589-1.786-2.857 0-4.857 2.009t-2 4.848 2 4.848 4.857 2.009q2.946 0 4.759-1.875t1.812-4.821zm6.161.821h1.946v-1.964h-1.946v-1.964h-1.964v1.964h-1.964v1.964h1.964v1.964h1.964v-1.964zm4.893-9.553v17.143q0 2.125-1.509 3.634t-3.634 1.509H5.143q-2.125 0-3.634-1.509T0 24.572V7.429q0-2.125 1.509-3.634t3.634-1.509h17.143q2.125 0 3.634 1.509t1.509 3.634z"/></symbol><symbol id="icon-instagram-square" viewBox="0 0 27 32"><path d="M18.286 16q0-1.893-1.339-3.232t-3.232-1.339-3.232 1.339T9.144 16t1.339 3.232 3.232 1.339 3.232-1.339T18.286 16zm2.464 0q0 2.929-2.054 4.982t-4.982 2.054-4.982-2.054T6.678 16t2.054-4.982 4.982-2.054 4.982 2.054T20.75 16zm1.929-7.321q0 .679-.482 1.161t-1.161.482-1.161-.482-.482-1.161.482-1.161 1.161-.482 1.161.482.482 1.161zM13.714 4.75l-1.366-.009q-1.241-.009-1.884 0t-1.723.054-1.839.179-1.277.33q-.893.357-1.571 1.036T3.018 7.911q-.196.518-.33 1.277t-.179 1.839-.054 1.723 0 1.884T2.464 16t-.009 1.366 0 1.884.054 1.723.179 1.839.33 1.277q.357.893 1.036 1.571t1.571 1.036q.518.196 1.277.33t1.839.179 1.723.054 1.884 0 1.366-.009 1.366.009 1.884 0 1.723-.054 1.839-.179 1.277-.33q.893-.357 1.571-1.036t1.036-1.571q.196-.518.33-1.277t.179-1.839.054-1.723 0-1.884T24.964 16t.009-1.366 0-1.884-.054-1.723-.179-1.839-.33-1.277q-.357-.893-1.036-1.571t-1.571-1.036q-.518-.196-1.277-.33t-1.839-.179-1.723-.054-1.884 0-1.366.009zM27.429 16q0 4.089-.089 5.661-.179 3.714-2.214 5.75t-5.75 2.214q-1.571.089-5.661.089t-5.661-.089q-3.714-.179-5.75-2.214T.09 21.661Q.001 20.09.001 16t.089-5.661q.179-3.714 2.214-5.75t5.75-2.214q1.571-.089 5.661-.089t5.661.089q3.714.179 5.75 2.214t2.214 5.75q.089 1.571.089 5.661z"/></symbol><symbol id="icon-instagram" viewBox="0 0 32 32"><path d="M16 2.881c4.275 0 4.781.019 6.462.094 1.563.069 2.406.331 2.969.55a4.952 4.952 0 0 1 1.837 1.194 5.015 5.015 0 0 1 1.2 1.838c.219.563.481 1.412.55 2.969.075 1.688.094 2.194.094 6.463s-.019 4.781-.094 6.463c-.069 1.563-.331 2.406-.55 2.969a4.94 4.94 0 0 1-1.194 1.837 5.02 5.02 0 0 1-1.837 1.2c-.563.219-1.413.481-2.969.55-1.688.075-2.194.094-6.463.094s-4.781-.019-6.463-.094c-1.563-.069-2.406-.331-2.969-.55a4.952 4.952 0 0 1-1.838-1.194 5.02 5.02 0 0 1-1.2-1.837c-.219-.563-.481-1.413-.55-2.969-.075-1.688-.094-2.194-.094-6.463s.019-4.781.094-6.463c.069-1.563.331-2.406.55-2.969a4.964 4.964 0 0 1 1.194-1.838 5.015 5.015 0 0 1 1.838-1.2c.563-.219 1.412-.481 2.969-.55 1.681-.075 2.188-.094 6.463-.094zM16 0c-4.344 0-4.887.019-6.594.094-1.7.075-2.869.35-3.881.744-1.056.412-1.95.956-2.837 1.85a7.833 7.833 0 0 0-1.85 2.831C.444 6.538.169 7.7.094 9.4.019 11.113 0 11.656 0 16s.019 4.887.094 6.594c.075 1.7.35 2.869.744 3.881.413 1.056.956 1.95 1.85 2.837a7.82 7.82 0 0 0 2.831 1.844c1.019.394 2.181.669 3.881.744 1.706.075 2.25.094 6.594.094s4.888-.019 6.594-.094c1.7-.075 2.869-.35 3.881-.744 1.05-.406 1.944-.956 2.831-1.844s1.438-1.781 1.844-2.831c.394-1.019.669-2.181.744-3.881.075-1.706.094-2.25.094-6.594s-.019-4.887-.094-6.594c-.075-1.7-.35-2.869-.744-3.881a7.506 7.506 0 0 0-1.831-2.844A7.82 7.82 0 0 0 26.482.843C25.463.449 24.301.174 22.601.099c-1.712-.081-2.256-.1-6.6-.1z"/><path d="M16 7.781c-4.537 0-8.219 3.681-8.219 8.219s3.681 8.219 8.219 8.219 8.219-3.681 8.219-8.219A8.221 8.221 0 0 0 16 7.781zm0 13.55a5.331 5.331 0 1 1 0-10.663 5.331 5.331 0 0 1 0 10.663zM26.462 7.456a1.919 1.919 0 1 1-3.838 0 1.919 1.919 0 0 1 3.838 0z"/></symbol><symbol id="icon-linkedin-square" viewBox="0 0 27 32"><path d="M4.232 25.25h4.125V12.857H4.232V25.25zM8.625 9.036q-.018-.929-.643-1.536t-1.661-.607-1.688.607-.652 1.536q0 .911.634 1.527t1.652.616h.018q1.054 0 1.696-.616t.643-1.527zM19.071 25.25h4.125v-7.107q0-2.75-1.304-4.161t-3.446-1.411q-2.429 0-3.732 2.089h.036v-1.804h-4.125q.054 1.179 0 12.393h4.125V18.32q0-.679.125-1 .268-.625.804-1.063T17 15.819q2.071 0 2.071 2.804v6.625zm8.358-17.821v17.143q0 2.125-1.509 3.634t-3.634 1.509H5.143q-2.125 0-3.634-1.509T0 24.572V7.429q0-2.125 1.509-3.634t3.634-1.509h17.143q2.125 0 3.634 1.509t1.509 3.634z"/></symbol><symbol id="icon-search" viewBox="0 0 24 24"><path d="M21.7 20.3L18 16.6c1.2-1.5 2-3.5 2-5.6 0-5-4-9-9-9s-9 4-9 9 4 9 9 9c2.1 0 4.1-.7 5.6-2l3.7 3.7c.2.2.5.3.7.3s.5-.1.7-.3c.4-.4.4-1 0-1.4zM4 11c0-3.9 3.1-7 7-7s7 3.1 7 7c0 1.9-.8 3.7-2 4.9-1.3 1.3-3 2-4.9 2-4 .1-7.1-3-7.1-6.9z"/></symbol><symbol id="icon-twitter-square" viewBox="0 0 27 32"><path d="M22.857 10.893q-1 .446-2.161.607 1.214-.714 1.661-2.089-1.161.679-2.393.911-1.089-1.179-2.732-1.179-1.554 0-2.652 1.098t-1.098 2.652q0 .518.089.857-2.304-.125-4.321-1.161T5.821 9.821q-.518.893-.518 1.893 0 2.036 1.625 3.125-.839-.018-1.786-.464v.036q0 1.339.893 2.384t2.196 1.295q-.518.143-.911.143-.232 0-.696-.071.375 1.125 1.33 1.857t2.17.75q-2.071 1.607-4.661 1.607-.464 0-.893-.054 2.643 1.679 5.75 1.679 2 0 3.75-.634t3-1.696 2.152-2.446 1.339-2.893.438-3.009q0-.321-.018-.482 1.125-.804 1.875-1.946zm4.572-3.464v17.143q0 2.125-1.509 3.634t-3.634 1.509H5.143q-2.125 0-3.634-1.509T0 24.572V7.429q0-2.125 1.509-3.634t3.634-1.509h17.143q2.125 0 3.634 1.509t1.509 3.634z"/></symbol><symbol id="icon-twitter" viewBox="0 0 32 32"><path d="M32 7.075a12.941 12.941 0 0 1-3.769 1.031 6.601 6.601 0 0 0 2.887-3.631 13.21 13.21 0 0 1-4.169 1.594A6.565 6.565 0 0 0 22.155 4a6.563 6.563 0 0 0-6.563 6.563c0 .512.056 1.012.169 1.494A18.635 18.635 0 0 1 2.23 5.195a6.56 6.56 0 0 0-.887 3.3 6.557 6.557 0 0 0 2.919 5.463 6.565 6.565 0 0 1-2.975-.819v.081a6.565 6.565 0 0 0 5.269 6.437 6.574 6.574 0 0 1-2.968.112 6.588 6.588 0 0 0 6.131 4.563 13.17 13.17 0 0 1-9.725 2.719 18.568 18.568 0 0 0 10.069 2.95c12.075 0 18.681-10.006 18.681-18.681 0-.287-.006-.569-.019-.85A13.216 13.216 0 0 0 32 7.076z"/></symbol></svg>
+	<div class="off-canvas-screen"></div>
+	<nav class="off-canvas-container" aria-hidden="true">
+		<button type="button" class="off-canvas-close" aria-label="Close Menu">
+			<span class="close"></span>
+		</button>
+
+
+<form method="get" class="search-form" action="https://staging.notion.online/">
+	<label for="search-field"><span class="screen-reader-text">To search this site, enter a search term</span></label>
+	<input class="search-field" id="search-field" type="text" name="s" value="" aria-required="false" autocomplete="off" placeholder="Search" />
+	<input type="hidden" name="post_type" value="post">
+	<button id="search-submit" class="search-submit">
+
+	<svg
+			class="icon icon-search"
+	 aria-hidden="true"		role="img">
+		<!-- <title id="title-search-28405">
+			search		</title> -->
+
+
+					<use xlink:href="#icon-search"></use>
+
+	</svg>
+
+		</button>
+</form>
+
+		<div class="off-canvas-content"><ul id="site-mobile-menu" class="mobile-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="https://staging.notion.online/shop/">Shop</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-557"><a href="http://studionotion.com/">Studio</a></li>
+</ul></div>
+			<ul class="social-icons">
+						<li class="social-icon facebook">
+					<a href="https://www.facebook.com/NotionMagazine">
+
+	<svg
+			class="icon icon-facebook"
+	 aria-hidden="true"		role="img">
+		<!-- <title id="title-facebook-24017">
+			facebook		</title> -->
+
+
+					<use xlink:href="#icon-facebook"></use>
+
+	</svg>
+
+							<span class="screen-reader-text">
+						Link to %s						</span>
+					</a>
+				</li><!-- .social-icon -->
+							<li class="social-icon instagram">
+					<a href="https://www.instagram.com/notion/">
+
+	<svg
+			class="icon icon-instagram"
+	 aria-hidden="true"		role="img">
+		<!-- <title id="title-instagram-31261">
+			instagram		</title> -->
+
+
+					<use xlink:href="#icon-instagram"></use>
+
+	</svg>
+
+							<span class="screen-reader-text">
+						Link to %s						</span>
+					</a>
+				</li><!-- .social-icon -->
+							<li class="social-icon twitter">
+					<a href="https://twitter.com/notionmagazine">
+
+	<svg
+			class="icon icon-twitter"
+	 aria-hidden="true"		role="img">
+		<!-- <title id="title-twitter-22621">
+			twitter		</title> -->
+
+
+					<use xlink:href="#icon-twitter"></use>
+
+	</svg>
+
+							<span class="screen-reader-text">
+						Link to %s						</span>
+					</a>
+				</li><!-- .social-icon -->
+
+	</ul><!-- .social-icons -->
+
+
+	</nav>
+
+
+</body>
+</html>
