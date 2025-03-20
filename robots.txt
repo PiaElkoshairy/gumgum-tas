@@ -1,0 +1,8 @@
+# This robots.txt file controls crawling of URLs under https://adops.shop
+
+Sitemap: https://adops.shop/sitemap.xml
+User-agent: *
+Disallow: /training/js-14.html
+
+User-agent: https://gumgum.com/verity
+Disallow: /training/
